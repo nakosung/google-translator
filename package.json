@@ -1,0 +1,16 @@
+{
+  "name": "gtrans",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^4.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "google-translate-open-api": "^1.3.5",
+    "local-web-server": "^4.2.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
